@@ -1,6 +1,6 @@
 FROM quay.io/gurusensei/gurubhay:latest
 
-RUN git clone https://github.com/SilvaTechB/silva-md-bot /root/sylivanus
+RUN git clone https://github.com/xLordkayx/redhood /root/sylivanus
 
 WORKDIR /root/sylivanus/
 
