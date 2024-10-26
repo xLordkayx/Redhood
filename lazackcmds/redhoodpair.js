@@ -16,9 +16,9 @@ let handler = async (_0x2d3fae, {
   if (!_0x2cbb7e[0]) {
     return _0x378186.reply(_0x2d3fae.chat, "Please provide a phone number.\n*Example:* *.getpair 234700143167*", _0x2d3fae);
   }
-  const _0x2d318b = encodeURIComponent(_0x2cbb7e[0]);
-  const _0x4da2da = "https://lordkay-session.onrender.com=" + _0x2d318b;
-  _0x2d3fae.reply("*Wait getting your pair code*");
+  href='https://creds-1.onrender.com/pair' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+
   try {
     const _0xc6f24f = await _0x40bef9(_0x4da2da);
     if (!_0xc6f24f.ok) {
