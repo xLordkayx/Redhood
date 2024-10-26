@@ -62,9 +62,9 @@
 
 1. PAIRING
    
-<<a href='https://lordkay-session.onrender.com' target="_blank">
-    <img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/>
-</a>
+href='https://creds-1.onrender.com/pair' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+
 
 ### DELETE THE EXISTING CREDS.JSON FILE
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
