@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&pause=750&color=952323&width=435&lines=Hello;Welcome+%F0%9F%98%8A+to+Silva+MD+bot;This+is+our+official+repository+;Updated+on+September+2024;Silva+team+is+offering+the+best;For+this+bot;Fork+and+give+a+star)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=35&pause=750&color=952323&width=435&lines=Hello;Welcome+%F0%9F%98%8A+to+Silva+MD+bot;This+is+our+official+repository+;Updated+on+October+2024;Lordkay+team+is+offering+the+best;For+this+bot;Fork+and+give+a+star)](https://git.io/typing-svg)
 
 <img src="https://files.catbox.moe/mi7yfb.jpeg" height="90" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=F70707&center=true&width=910&height=100&lines=SILVA+MD+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=F70707&center=true&width=910&height=100&lines=REDHOOD+MD+BOT" alt="Typing SVG" /></a>
   </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
 
